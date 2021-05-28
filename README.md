@@ -1,0 +1,2 @@
+# tedikurdev
+tedikurdev Developer
