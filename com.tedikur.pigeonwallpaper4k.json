@@ -30,9 +30,9 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : false,
 
-"startapp" : "205801621",
+"startapp" : "205504413",
 
-"admob_banner" : "ca-app-pub-6554653902751702/8392602860",
+"admob_banner" : "ca-app-pub-6554653902751702/5383844887",
 "admob_inter" : "",
 "admob_native" : "",
 
@@ -63,7 +63,7 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 "enable_Share_button" : true,
 "Share_TXT" : "Supperr APPS Download Now",
 "more_button" : "Share Via WhatsApp",
-"url_more_apps" : "https://play.google.com/store/apps/details?id=com.tedikur.cutechickswallpaper"
+"url_more_apps" : "https://play.google.com/store/apps/details?id=com.tedikur.pigeonwallpaper4k"
 
   }
 }
