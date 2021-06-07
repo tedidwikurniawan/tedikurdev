@@ -1,0 +1,571 @@
+{
+   "Iklan":[
+      {
+         "status":"0",
+         "link":"https://play.google.com/store/apps/details?id=",
+         "interid":"ca-app-pub-3940256099942544/1033173712",
+         "nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "openid":"ca-app-pub-3940256099942544/1033173712",
+         "deskripsi_update":"Ini mah hanya contoh saja promosi iklan via json",
+         "link_update":"https://www.google.com/",
+         "interval":1,
+         "pengaturan_iklan":"1",
+         "startappid":"12345678",
+         "version_app":1,
+         "fan_inter":"YOUR_PLACEMENT_ID",
+         "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+         "inmobi_inter":1476878485960,
+         "inmobi_banner":1473189489298,
+         "hpk_admob1":"",
+         "hpk_admob2":"",
+         "hpk_admob3":"",
+         "hpk_admob4":"",
+         "hpk_admob5":""
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "nama_cat":"Ucapan Salam 1",
+         "gambar":"https://tedikurprivacypolicy.files.wordpress.com/2021/06/iconstatussalam.png"
+      },
+      {
+         "id":2,
+         "nama_cat":"Ucapan Salam 2",
+         "gambar":"https://tedikurprivacypolicy.files.wordpress.com/2021/06/iconstatussalam.png"
+      },
+      {
+         "id":3,
+         "nama_cat":"Ucapan Salam 3",
+         "gambar":"https://tedikurprivacypolicy.files.wordpress.com/2021/06/iconstatussalam.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Selamat pagi."
+      },
+      {
+         "id":2,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Selamat Siang."
+      },
+      {
+         "id":3,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Selamat sore."
+      },
+      {
+         "id":4,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Selamat malam."
+      },
+      {
+         "id":5,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Allah yang telah menjadikan malam untuk kamu supaya kamu beristirahat padanya dan menjadikan siang terang benderang."
+      },
+      {
+         "id":6,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Waktu sudah terlalu malam, istirahatlah, semoga Allah selalu menjaga tidurmu. Dan malam ini semoga menjadi malam terindah dengan kehadiranku dalam mimpimu."
+      },
+      {
+         "id":7,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Sayang, ketahuilah bahwa tidur sejatinya adalah nikmat karena dengan tidur, kamu dapat melupakan segala masalah, walau hanya sementara. Selamat malam, jangan lupa berdoa, Sayang."
+      },
+      {
+         "id":8,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Peluk dan cium hangat dari jauh cintaku. MasyaaAllah semoga malam ini Allah memberikan keberkahan dalam tidurmu, dalam malammu, semoga dosa-dosa kita diampuni oleh Allah aamiin."
+      },
+      {
+         "id":9,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Selamat malam, Cintaku! Semoga malam ini menjadi saksi di mana kita berjuang dari bawah dengan bantuan Allah SWT. Semoga Allah selalu memberikan kita ketabahan sampai kita tutup usia."
+      },
+      {
+         "id":10,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Untuk langit malam yang selalu ramai akan bintang, namun hatiku akan selalu damai untukmu. Selamat malam orang tersayang, semoga kebahagiaan selalu tercurah untukmu."
+      },
+      {
+         "id":11,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Sayang, selamat malam. Sebelum matamu terpejam, jangan lupa berdoalah untuk kehidupan masa depan kita."
+      },
+      {
+         "id":12,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Sayang, selamat malam. Evaluasi diri sebelum tidur mungkin akan lebih baik untuk esok yang masih misteri."
+      },
+      {
+         "id":13,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Istirahatlah, jangan lupa untuk berdoa dan mengucap syukur untuk hari ini, semoga Allah senantiasa selalu melindungimu,"
+      },
+      {
+         "id":14,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Selamat malam, Sahabat, semoga Allah selalu berada di sampingmu saat dirimu memejamkan mata maupun saat dirimu terjaga."
+      },
+      {
+         "id":15,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Malam yang indah, rembulan yang cerah. Selamat malam, Sayang, semoga kehidupan kita selanjutnya menjadi lebih superior atas izin Allah, amin. Jangan capek-capek ya kerjanya!"
+      },
+      {
+         "id":16,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Tangkaplah malam dengan keheningan di hatimu, dengan iman yang tulus kepada Penciptamu, dan berdoalah seolah ini adalah malam terakhirmu."
+      },
+      {
+         "id":17,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Malam adalah kesempatan indah untuk berdoa, beristirahat, memaafkan, melupakan, dan memulai hari esok yang lebih baik. Selamat malam, kawan."
+      },
+      {
+         "id":18,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Persiapkanlah senjatamu saat kau akan tidur dengan doa agar saat tidur engkau tidak diserang oleh bala tentara setan."
+      },
+      {
+         "id":19,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Tetaplah hidup dengan ketaatan. Baik taat kepada Allah SWT dan juga Rasul-Nya. Sebagai hamba yang baik, harus pintar mengatur waktu. Janganlah begadang jika tidak ada artinya. Selamat tidur, kekasihku."
+      },
+      {
+         "id":20,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Allah yang telah menjadikan malam untuk kamu agar kamu bisa beristirahat dan menjadikan siang terang benderang untuk kamu, agar kamu bekerja."
+      },
+      {
+         "id":21,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Hari ini kita muda, esok belum tentu akan sama. Bersyukurlah setiap detik yang pergi karena di setiapnya tak akan sama. Selamat malam, semoga mimpimu indah dan ketika bangun mimpi itu akan menjadi nyata."
+      },
+      {
+         "id":22,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Doa sebelum tidur. Dengan menyebut nama-Mu ya Allah, aku mati dan aku hidup. 'Allahumma bismika amuutu wa ahyaa'."
+      },
+      {
+         "id":23,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Ketika kamu tidak bisa tidur di malam hari, pernahkah kamu berpikir bahwa mungkin Tuhan berkata, Kita perlu bicara dan sekarang kamu punya waktu."
+      },
+      {
+         "id":24,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Sebelum tidur, aku menghitung semua nikmat yang aku terima hari ini dan bukannya masalah. Aku ingin memastikan tidur dengan nyenyak dan penuh rasa syukur."
+      },
+      {
+         "id":25,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Di dalam gelapnya malam, ku lantunkan ucapan selamat malam dari lubuk hati terdalam agar persahabatan kita tetap abadi bersama sunyinya malam."
+      },
+      {
+         "id":26,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Selamat tidur, Sayang. Lupakan harimu yang berat. Datanglah perlahan ke dalam pelukanku, sandarkan hatimu padaku."
+      },
+      {
+         "id":27,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Senja sudah berlalu beberapa jam yang lalu, kini suara adzan sudah berkumandang. Jika ada orang yang mengetuk pintu dan mengucap selamat malam, maka ajaklah dia untuk menunaikan salat berjaamah di masjid terdekat, baru dipersilakan bertamu ke rumahmu."
+      },
+      {
+         "id":28,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Pejamkan mata sebelum larut menyapa, ucapkan doa jika jiwamu masih percaya akan kuasa-Nya, semoga pagi akan menyapa."
+      },
+      {
+         "id":29,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Bersyukurlah jika engkau masih bisa bertemu dengan gelapnya malam karena tidak semua orang bisa hidup di kegelapan malam. Jangan lupa ucapkan selamat malam kepada semua orang."
+      },
+      {
+         "id":30,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Setiap malam sebelum beranjak tidur, tanyakan pada diri sendiri 'apa yang sudah saya lakukan hari ini untuk layak mendapatkan surga?"
+      },
+      {
+         "id":31,
+         "nama_cat":"Ucapan Salam 1",
+         "deskripsi":"Selamat malam, Sayang, semoga selalu dinaungan Alllah, tidur yang nyenyak semoga mimpi indah."
+      },
+      {
+         "id":32,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Sebelum tidur, aku menghitung semua nikmat yang aku terima hari ini dan bukannya masalah. Aku ingin memastikan tidur dengan nyenyak dan penuh rasa syukur."
+      },
+      {
+         "id":33,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Ya Allah, jadikanlah tidur kami sebagai ibadah kepadamu. Bangunkanlah kami dalam keadaan iman dan kesehatan yang baik dalam rahmat-Mu."
+      },
+      {
+         "id":34,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Orang kaya adalah dia yang bisa tidur di malam hari karena mengetahui bahwa dia tidak melukai seseorang di hari itu. - Mufti Islamil Menk"
+      },
+      {
+         "id":35,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Selamat malam istriku tersayang, semoga Allah memberikan keberkahan di hidup kita. Semoga malam ini Allah menyampaikan rinduku padamu melalui chat ini. Selamat tidur ibu dari anak-anakku!"
+      },
+      {
+         "id":36,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Setiap malam tanyakan pada diri sendiri, apakah kamu sudah selangkah lebih dekat kepada Allah atau justru selangkah lebih jauh? Selamat malam, Sayang."
+      },
+      {
+         "id":37,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Berdolah dan tutup matamu, pikirkan hal-hal positif untuk esok hari. Selamat malam."
+      },
+      {
+         "id":38,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Mungkin belum sekarang, tapi nanti kita akan berdoa bersama sebelum memejamkan mata. Selamat malam, Sayang."
+      },
+      {
+         "id":39,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Hati ini akan selalu merindukanmu. Teruslah berdoa pada Allah, esok hari akan jadi hari yang cerah untuk kita. Selamat malam."
+      },
+      {
+         "id":40,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Ya Allah teduhkanlah hati kami dan pagarilah kami dengan malaikat-Mu supaya esok pagi kami bangkit dengan aman dan damai. Amin Ya Robbal Alamin."
+      },
+      {
+         "id":41,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Jangan lupa, mohonlah ampunan setiap malam sebelum tidur karena ketika kita tertidur, jiwa meninggalkan tubuh dan kembali atau tidak, kita tidak pernah bisa mengetahuinya."
+      },
+      {
+         "id":42,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Selamat siang sahabat baikku! Tidakkah kau lihat hari ini adalah hari yang baik. Tetaplah bahagia dan jaga kesehatan selalu ya sahabatku! Sampaikan salamku pada keluargamu di rumah ya! Selalu berpikir positif dan jika ada waktu mari kita berolahraga dan menghabiskan waktu bersama-sama."
+      },
+      {
+         "id":43,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Pernahkah kamu bertanya-tanya dalam diri, kapan waktu yang tepat untuk memberi perhatian pada orang terdekatmu? Sejatinya, memberikan perhatian kepada seseorang bisa dilakukan kapan saja."
+      },
+      {
+         "id":44,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Pada siang hari bisa menjadi waktu paling sibuk bagi semua orang. Pada saat itulah biasanya mereka merasa lelah dan butuh asupan semangat."
+      },
+      {
+         "id":45,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Sekalipun sedang sibuk bekerja, tak ada salahnya kamu mengirimkan kata-kata selamat siang untuk orang terdekatmu agar semangatnya bisa bertambah."
+      },
+      {
+         "id":46,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Mungkin ketidaksempurnaanlah yang justru menyempurnakan kita satu sama lain. Selamat siang, Sayangku."
+      },
+      {
+         "id":47,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Terimalah hadiah sederhana dariku, ucapan selamat siang yang dibungkus dengan ketulusan, diikat dengan kepedulian, dan disegel dengan doa."
+      },
+      {
+         "id":48,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Meski aku sedang tidak bersamamu, kuharap siang harimu sama indahnya seperti saat kita bersama."
+      },
+      {
+         "id":49,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Hai, Sayang! Aku belum makan siang, nih. Soalnya, tadi mau makan nasinya anget, langsung aja aku bawa ke dokter. Takut kenapa-napa. Hehehe. Kamu jangan lupa makan siang, ya!"
+      },
+      {
+         "id":50,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Urusan besok, ya dipikirkan besok. Kalau dipikir sekarang, besok mau mikir apa? Mending sekarang mikirin menu makan siang saja. Met makan!"
+      },
+      {
+         "id":51,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Awan mendung tak kunjung turun, panas terasa membakar jiwa. Senyum manjamu terlihat nyata, sejukan diri sejukan suasana. Selamat siang, Cinta."
+      },
+      {
+         "id":52,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Anak-anak bermain bola, main bola di tanah lapang. Buat engkau yang aku cinta, kuucapkan selamat siang."
+      },
+      {
+         "id":53,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Meski aku tidak bersamamu, aku harap siang harimu sama indahnya seperti saat kita bersama."
+      },
+      {
+         "id":54,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Biarkan kegagalan di pagi hari menginspirasimu untuk menjadi lebih baik di siang harinya."
+      },
+      {
+         "id":55,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Semoga siang harimu menyenangkan dan semua mimpimu semalam yang kamu tuliskan pagi tadi menjadi kenyataan di siang hari ini."
+      },
+      {
+         "id":56,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Jadilah seperti matahari di siang hari. Biarkan semua orang yang melihatmu terinspirasi oleh semua hal hebat yang kamu lakukan. Kamu memiliki satu kehidupan di bumi ini. Hitunglah dengan cara apa pun yang Kamu bisa."
+      },
+      {
+         "id":57,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Apakah kamu terjebak di siang hari tanpa tahu apa yang harus kamu lakukan? Mulailah dengan mimpi-mimpimu."
+      },
+      {
+         "id":58,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Siang hari bukan hanya bagian tengah dari hari. Itu adalah waktunya untuk melengkapi bagian terpenting dari tugas kita dan melanjutkan hidup."
+      },
+      {
+         "id":59,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Tidur sianglah karena setan-setan itu tidak pernah tidur siang."
+      },
+      {
+         "id":60,
+         "nama_cat":"Ucapan Salam 2",
+         "deskripsi":"Baik, lebih baik, terbaik. Jangan pernah berhenti hingga baikmu menjadi lebih baik dan lebih baikmu menjadi terbaik. Selamat siang!"
+      },
+      {
+         "id":61,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Aku berdoa agar siang harimu dipenuhi dengan berkah dan cinta."
+      },
+      {
+         "id":62,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Makan siang nasinya nendang, rasanya enak banget dan terasa nikmat. Aku sampaikan selamat siang, untuk kamu yang beranjak makan dan istirahat."
+      },
+      {
+         "id":63,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Jujur saja, bangun pagi memang membuat diriku malas, tapi kalau bangun siang aku itu rajin sekali. Tanpa adanya ucapan selamat pagi, aku bisa langsung mengucapkan ke kalian selamat siang."
+      },
+      {
+         "id":64,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Selamat siang, bagaimana keadaan kekasih hati di siang yang panas ini? Maafkan aku, karena di saat kamu mengalami kepanasan karena matahari, aku tidak ada di sampingmu untuk mendinginkanmu. Aku harap kamu tetap menungguku membawa kesuksesan, aku juga selalu berdoa kepada Tuhan supaya kita bisa dipertemukan secepatnya."
+      },
+      {
+         "id":65,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Kekasih, tahukah kamu cerahnya matahari siang ini tidak bisa membuat suasana hatiku cerah? Itu karena kamu tidak ada di sini, ucapan selamat siang ini aku titipkan pada matahari karena kita disinari matahari yang sama."
+      },
+      {
+         "id":66,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Aku berdoa agar siang harimu dipenuhi dengan berkah dan cinta."
+      },
+      {
+         "id":67,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Siang ini adalah waktu yang tepat untuk memberi tahumu betapa aku mencintai dan peduli padamu."
+      },
+      {
+         "id":68,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Semoga siang harimu menyenangkan dan semua mimpimu menjadi kenyataan."
+      },
+      {
+         "id":69,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Meski aku tidak bersamamu, aku harap siang harimu sama indahnya seperti saat kita bersama."
+      },
+      {
+         "id":70,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Hidup ini bagaikan film. Saat kau tertawa jadi komedi, saat kau menangis jadi drama, saat kau berkelahi jadi action, dan saat kau bercermin jadi horor. Selamat siang, semuanya."
+      },
+      {
+         "id":71,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Selamat pagi jiwa-jiwa optimistis! Hadapi kesulitan hari ini dengan penuh semangat dan keberanian agar membantumu sukses di masa depan."
+      },
+      {
+         "id":72,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Pagi ialah jalan untuk melihat dunia baru, pengalaman baru, dan harapan baru. Untuk itu, sambut pagi dengan senyuman tulus dari hati."
+      },
+      {
+         "id":73,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Beberapa orang masih menikmati waktu tidur di pagi hari. Padahal, pagi hari terlalu berharga untuk dilewatkan begitu saja."
+      },
+      {
+         "id":74,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Tuliskan dalam hatimu bahwa setiap hari adalah hari terbaik dalam setahun."
+      },
+      {
+         "id":75,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Baik dan buruk yang terjadi di hari kemarin telah berlalu. Sambut pagi ini dengan semangat dan harapan baru."
+      },
+      {
+         "id":76,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Awali pagimu dengan rasa sayang. Sayang dengan diri sendiri. Sayang dengan orang di sekitarmu. Maka dunia akan menyayangimu."
+      },
+      {
+         "id":77,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Pengalaman adalah batu pijakan. Semakin banyak pengalaman, semakin banyak kesempatan untuk meraih hidup yang berkualitas tinggi. Selamat pagi sahabat."
+      },
+      {
+         "id":78,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Pagi akan terasa biasa jika kamu lalui dengan begitu saja. Sambut pagi dengan senyuman dan semangat. Selamat pagi."
+      },
+      {
+         "id":79,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Tidak peduli seberapa baik atau buruk dirimu. Bangunlah setiap pagi dan bersyukurlah bahwa kamu masih diberi kesempatan untuk memperbaikinya."
+      },
+      {
+         "id":80,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Kamu memiliki dua pilihan setiap harinya. Melanjutkan tidur dan bermimpi, atau bangun untuk mengejarnya."
+      },
+      {
+         "id":81,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Assalamualaikum. Semangat pagi, Kawan. Semoga seberkas sinar Ilahi terpancar menerangi hatimu pagi ini hingga sepanjang hari."
+      },
+      {
+         "id":82,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Jangan lupa bersyukur setiap pagi karena nikmat Allah mengizinkanmu terbangun dari tidur hari ini. Assalamualaikum dan selamat pagi."
+      },
+      {
+         "id":83,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Assalamualaikum, Sahabatku. Selamat pagi! Apakah hari ini kamu sudah mengawali pagimu dengan bersyukur?"
+      },
+      {
+         "id":84,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Harapan dan jalan selalu datang untuk mereka yang senantiasa berdoa serta berjuang tanpa mengenal kata menyerah. Pagi, Teman. Jangan lupa bersyukur, ya."
+      },
+      {
+         "id":85,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Pagi, Sahabat! La tahzan walau orang di sekelilingmu tidak menganggapmu. Tunjukkanlah bahwa kamu baik-baik saja, dan hidupmu kini jauh lebih baik dari sebelumnya."
+      },
+      {
+         "id":86,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Assalamualaikum warahmatullaahi wabarakaatuh, sohabul khair."
+      },
+      {
+         "id":87,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Assalamualaikum teman, selamat pagi dan semangat pagi, semoga cahaya Allah selalu bersama dengan kita di sepanjang hari ini."
+      },
+      {
+         "id":88,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Awali setiap pagi Anda dengan senyuman dan ketenangan hati, istikamahlah bagai matahari yang selalu terbit di pagi hari dan terbenam di sore hari. Saya ucapkan assalamualaikum dan selamat pagi untuk Anda."
+      },
+      {
+         "id":89,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Selamat pagi wahai umat nabi yang budiman, cerialah hari kalian dengan tetap menjaga hati."
+      },
+      {
+         "id":90,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Berperilaku baiklah karena Allah semata dan selalu bersyukur setiap pagi karena nikmat Allah mengizinkan Anda terbangun dari tidur, Assalamualaikum dan selamat pagi."
+      },
+      {
+         "id":91,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Assalamualaikum sahabat, selamat dan semangat pagi sudahkah Anda salat dhuha hari ini."
+      },
+      {
+         "id":92,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Mentari selalu terbit dari timur, teman sejati selalu menghibur, ayo kawan bergegas bangun dari tidur sebelum didahului salat zuhur."
+      },
+      {
+         "id":93,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Pagi hari tanpa kopi bagaikan pagi tanpa sinar matahari, jagalah lisan dari menyakiti hati serta jaga hati dari rasa benci dan dengki."
+      },
+      {
+         "id":94,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Assalamualaikum, selamat pagi kawan! Semoga secercah harapan terpancar menerangi hati dan akal kita di pagi yang cerah ini."
+      },
+      {
+         "id":95,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Selamat pagi para akhwat atau ikhwan, semoga pagimu ini senantiasa menjaga keistikamahan hatimu."
+      },
+      {
+         "id":96,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Berakhlaklah baik hanya karena Allah SWT, selalu bersyukur atas nikmat yang telah diberinya. Assalamualaikum wahai sahabatku."
+      },
+      {
+         "id":97,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Mulailah harimu dengan niat yang baik, pancarkan raut wajah bahagia di pagi hari, semoga Allah senantiasa menjagamu. Assalamualiakum, semangat pagi sahabat!"
+      },
+      {
+         "id":98,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Sohabul khair ukhti, semoga pagimu lebih baik dari kemarin, dan semoga persahabatan kita akan terus terikat. Amin."
+      },
+      {
+         "id":99,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Sang surya muncul di peraduannya dengan terang, wahai ukhti atau akhi sudahkah kalian bersyukur hari ini? Selamat pagi dan semangatlah!."
+      },
+      {
+         "id":100,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Selamat pagi mentari. Sebagai sahabat sejati, aku ingin selalu mengingatkanmu, jagalah hatimu untuk sang khaliq."
+      },
+      {
+         "id":101,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Sesungguhnya sesudah kesulitan pasti ada kemudahan, tetap optimistis percayalah akan janji-Nya. Ia adalah kunci untuk menjemput mentari yang percaya diri dan optimistis. Salam pagi."
+      },
+      {
+         "id":102,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Assalmualaikum teman, buatlah pagi ini lebih baik dari pagi kemarin, tetaplah semangat."
+      },
+      {
+         "id":103,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Teguhkan hati, luruskan niat, perbaharui pikiran, selamat pagi dan tetaplah semangat."
+      },
+      {
+         "id":104,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Selamat pagi saudara-saudaraku, awali hari dengan keceriaan dengan tetap menjaga hati seperti Nabi Muhammad SAW.Assalamualaikum Warahmatullaahi wabarakaatuh, selamat pagi saudaraku."
+      },
+      {
+         "id":105,
+         "nama_cat":"Ucapan Salam 3",
+         "deskripsi":"Ya Allah! Jadikan kami cinta iman, hiasi perapian kami dengan iman! Hentikan kami untuk mencintai penghujatan, ketidaktaatan, dan pemberontakan, buat mereka tampak keji! Jadikan kami satu di antara orang di jalan yang benar. Selamat pagi!"
+      }
+   ]
+}

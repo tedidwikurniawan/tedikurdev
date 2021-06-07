@@ -1,0 +1,666 @@
+{
+   "Iklan":[
+      {
+         "status":"0",
+         "link":"https://play.google.com/store/apps/details?id=",
+         "interid":"ca-app-pub-3940256099942544/1033173712",
+         "nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "openid":"ca-app-pub-3940256099942544/1033173712",
+         "deskripsi_update":"Ini mah hanya contoh saja promosi iklan via json",
+         "link_update":"https://www.google.com/",
+         "interval":1,
+         "pengaturan_iklan":"1",
+         "startappid":"12345678",
+         "version_app":1,
+         "fan_inter":"YOUR_PLACEMENT_ID",
+         "fan_banner_native":"YOUR_PLACEMENT_ID",
+         "id_inmobi":"1234567890qwerty0987654321qwerty12345",
+         "inmobi_inter":1476878485960,
+         "inmobi_banner":1473189489298,
+         "hpk_admob1":"",
+         "hpk_admob2":"",
+         "hpk_admob3":"",
+         "hpk_admob4":"",
+         "hpk_admob5":""
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "nama_cat":"Salam Pagi Islami 1",
+         "gambar":"https://tedikurprivacypolicy.files.wordpress.com/2021/06/iconsalampagiislami.png"
+      },
+      {
+         "id":2,
+         "nama_cat":"Salam Pagi Islami 2",
+         "gambar":"https://tedikurprivacypolicy.files.wordpress.com/2021/06/iconsalampagiislami.png"
+      },
+      {
+         "id":3,
+         "nama_cat":"Salam Pagi Islami 3",
+         "gambar":"https://tedikurprivacypolicy.files.wordpress.com/2021/06/iconsalampagiislami.png"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Assalamualaikum warahmatullaahi wabarakaatuh, sohabul khair."
+      },
+      {
+         "id":2,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Assalamualaikum teman, selamat pagi dan semangat pagi, semoga cahaya Allah selalu bersama dengan kita di sepanjang hari ini."
+      },
+      {
+         "id":3,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Awali setiap pagi Anda dengan senyuman dan ketenangan hati, istikamahlah bagai matahari yang selalu terbit di pagi hari dan terbenam di sore hari. Saya ucapkan assalamualaikum dan selamat pagi untuk Anda."
+      },
+      {
+         "id":4,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Selamat pagi wahai umat nabi yang budiman, cerialah hari kalian dengan tetap menjaga hati."
+      },
+      {
+         "id":5,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Berperilaku baiklah karena Allah semata dan selalu bersyukur setiap pagi karena nikmat Allah mengizinkan Anda terbangun dari tidur, Assalamualaikum dan selamat pagi."
+      },
+      {
+         "id":6,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Assalamualaikum sahabat, selamat dan semangat pagi sudahkah Anda salat dhuha hari ini."
+      },
+      {
+         "id":7,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Mentari selalu terbit dari timur, teman sejati selalu menghibur, ayo kawan bergegas bangun dari tidur sebelum didahului salat zuhur."
+      },
+      {
+         "id":8,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Pagi hari tanpa kopi bagaikan pagi tanpa sinar matahari, jagalah lisan dari menyakiti hati serta jaga hati dari rasa benci dan dengki."
+      },
+      {
+         "id":9,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Assalamualaikum, selamat pagi kawan! Semoga secercah harapan terpancar menerangi hati dan akal kita di pagi yang cerah ini."
+      },
+      {
+         "id":10,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Selamat pagi para akhwat atau ikhwan, semoga pagimu ini senantiasa menjaga keistikamahan hatimu."
+      },
+      {
+         "id":11,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Berakhlaklah baik hanya karena Allah SWT, selalu bersyukur atas nikmat yang telah diberinya. Assalamualaikum wahai sahabatku."
+      },
+      {
+         "id":12,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Mulailah harimu dengan niat yang baik, pancarkan raut wajah bahagia di pagi hari, semoga Allah senantiasa menjagamu. Assalamualiakum, semangat pagi sahabat!"
+      },
+      {
+         "id":13,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Sohabul khair ukhti, semoga pagimu lebih baik dari kemarin, dan semoga persahabatan kita akan terus terikat. Amin."
+      },
+      {
+         "id":14,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Sang surya muncul di peraduannya dengan terang, wahai ukhti atau akhi sudahkah kalian bersyukur hari ini? Selamat pagi dan semangatlah!."
+      },
+      {
+         "id":15,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Selamat pagi mentari. Sebagai sahabat sejati, aku ingin selalu mengingatkanmu, jagalah hatimu untuk sang khaliq."
+      },
+      {
+         "id":16,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Sesungguhnya sesudah kesulitan pasti ada kemudahan, tetap optimistis percayalah akan janji-Nya. Ia adalah kunci untuk menjemput mentari yang percaya diri dan optimistis. Salam pagi."
+      },
+      {
+         "id":17,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Assalmualaikum teman, buatlah pagi ini lebih baik dari pagi kemarin, tetaplah semangat."
+      },
+      {
+         "id":18,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Teguhkan hati, luruskan niat, perbaharui pikiran, selamat pagi dan tetaplah semangat."
+      },
+      {
+         "id":19,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Assalamualaikum Warahmatullaahi wabarakaatuh, selamat pagi saudaraku."
+      },
+      {
+         "id":20,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Ya Allah! Jadikan kami cinta iman, hiasi perapian kami dengan iman! Hentikan kami untuk mencintai penghujatan, ketidaktaatan, dan pemberontakan, buat mereka tampak keji! Jadikan kami satu di antara orang di jalan yang benar. Selamat pagi!"
+      },
+      {
+         "id":21,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Berkat Allah SWT datang sebagai kejutan, tetapi seberapa banyak yang Anda terima tergantung pada seberapa besar hati Anda percaya! Semoga Anda diberkati melebihi harapan Anda. Selamat pagi."
+      },
+      {
+         "id":22,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Yang paling dekat seorang hamba dengan Tuhannya adalah saat dia bersujud, selamat Pagi!"
+      },
+      {
+         "id":23,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Jika Anda terus berjalan dibimbing oleh manusia, Anda akan menemukan akhir yang tanpa harapan. Tetapi, jika Anda melanjutkan jalan yang dibimbing oleh Allah, Anda akan menemukan harapan yang tak terbatas. Selamat pagi!"
+      },
+      {
+         "id":24,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Ya Allah! Maafkan saya, orang tua saya, dan semua orang beriman pada hari dimana perhitungan akan ditetapkan! Selamat pagi!"
+      },
+      {
+         "id":25,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Jika Allah ingin berbuat baik kepada seseorang, dia memberikan dengan cobaan. Selamat pagi!"
+      },
+      {
+         "id":26,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Takut kepada Allah di manapun Anda berada. Selamat pagi!"
+      },
+      {
+         "id":27,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Pikiran yang baik mendahului perbuatan besar. Perbuatan besar mendahului kesuksesan. Semoga harimu menyenangkan."
+      },
+      {
+         "id":28,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Jangan menyalahkan Allah karena tidak menghujani Anda dengan hadiah. Dia memberi Anda hadiah hari baru setiap pagi. Selamat pagi."
+      },
+      {
+         "id":29,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Sesungguhnya, Allah tidak melihat ke arah tubuh Anda atau ke arah penampilan Anda. Tapi, dia melihat ke arah hatimu. Selamat pagi!"
+      },
+      {
+         "id":30,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Allah meningkatkan martabatnya yang bertoleransi dan meninggikan orang yang rendah hati. Semoga harimu diberkati!"
+      },
+      {
+         "id":31,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Berada di dunia ini seolah-olah Anda adalah orang asing atau seorang musafir. Selamat pagi!"
+      },
+      {
+         "id":32,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Assalammualaikum warahmatullahi wabarakatuh sahabatku, selamat pagi, semoga Allah SWT selalu memberikan kelapangan rezeki atas apa yang engkau lakukan pada hari ini."
+      },
+      {
+         "id":33,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Selamat pagi wahai saudaraku, sesama penyembah Allah Ta'ala, semoga cahaya-Nya memberikan kita perlindungan untuk terus beribadah dan beraktivitas pada hari ini."
+      },
+      {
+         "id":34,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Azan subuh sudah berkumandang, selamat pagi ukhti! Awali hari ini dengan salat dan mengaji agar lebih berkah."
+      },
+      {
+         "id":35,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Assalamualaikum teman, selamat pagi dan semangat pagi, semoga cahaya Allah selalu bersama dengan kita di sepanjang hari ini, ya."
+      },
+      {
+         "id":36,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Mentari selalu terbit dari timur, teman sejati selalu menghibur, ayo kawan bergegas bangun dari tidur sebelum didahului salat dzuhur. Jangan lupa bersyukur."
+      },
+      {
+         "id":37,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Mentari tidak pernah lupa membawa sinarnya, seperti pula Dia yang tidak pernah lupa memberikan nikmat pada kita. Terima kasih, Alhamdulillah, kita masih diberikan kesehatan kawan."
+      },
+      {
+         "id":38,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Assalamu’alaikum. Semangat pagi teman, semoga seberkas sinar ilahi terpancar menerangi hati di pagi ini."
+      },
+      {
+         "id":39,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Awali setiap pagi anda dengan senyuman dan ketenangan hati, istiqomahlah bagai matahari yang selalu terbit di pagi hari dan terbenam di sore hari, aku ucapkan assalamualaikum dan selamat pagi untukmu."
+      },
+      {
+         "id":40,
+         "nama_cat":"Salam Pagi Islami 1",
+         "deskripsi":"Selamat pagi wahai umat nabi yang budiman, Cerialah hari kalian dengan tetap menjaga hati."
+      },
+      {
+         "id":41,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Berperilaku baiklah karena Allah semata, dan selalu bersyukur setiap pagi karena nikmat Allah mengizinkan anda terbangun dari tidur, assalamualaikum dan selamat pagi."
+      },
+      {
+         "id":42,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Kau tahu, kemenangan tidak akan pernah Tuhan berikan pada mereka yang bermalas-malasan! Masih pagi, semangat!"
+      },
+      {
+         "id":43,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Bagaimana mungkin kau akan mendapatkan hal-hal luar biasa, bila kau belum merubah kebiasaan burukmu? Masih pagi, rencanakan hal luar biasa ke depan!"
+      },
+      {
+         "id":44,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Hanya sedetik untuk berfikir tentang kamu saat pagi tiba, namun senyuman di wajahku berlangsung hingga sepanjang hari. Selamat pagi."
+      },
+      {
+         "id":45,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Sebuah pagi sempurna, hanya jika aku bersama kamu."
+      },
+      {
+         "id":46,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Bukan kopi atau ucapan selamat pagi yang aku butuhkan untuk awali hari ku, tapi senyumanmu."
+      },
+      {
+         "id":47,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Tak perlu susah-susah, karena hanya dengan memikirkanmu saja sudah membuat pagi hari ku menjadi lebih indah."
+      },
+      {
+         "id":48,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Sinar matahari pagi memang begitu cantik, tetapi sinar matahari akan kalah cantik bila dibandingkan dengan senyum indahmu."
+      },
+      {
+         "id":49,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Udara pagi memang menyejukkan, tetapi lebih menyejukkan lagi ketika melihat wajahmu."
+      },
+      {
+         "id":50,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Selamat pagi untuk seseorang yang selalu ada di dalam doa, namun tidak terlihat oleh mata karena terpisahkan jarak."
+      },
+      {
+         "id":51,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Kamu dan kopi seperti bilangan ganjil yang menggenapkan aku. Selamat pagi pujaan hatiku."
+      },
+      {
+         "id":52,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Sebagaimana Engkau telah bukakan mataku di pagi ini, bukakan pula jalan kebahagiaan untuk calon tulang rusukku sampai akhir hayat nanti."
+      },
+      {
+         "id":53,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Selamat pagi yang begitu syahdu. Embun di ujung daun jatuh dengan membawa rindu pada tanah, menumbuhkan pepohonan."
+      },
+      {
+         "id":54,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Pada dasarnya pagi yang kamu rasakan hari ini ada karena izin dari Allah agar kamu bisa bangun dari tidur. Selamat beraktivitas ya!"
+      },
+      {
+         "id":55,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Hidup tanpa iman bagaikan bumi tanpa matahari dan bintang. Hidup tanpa cinta bagaikan taman tanpa bunga. Aku tanpa kamu bagaikan hilang setengah kesempurnaanku. Selamat pagi sayang."
+      },
+      {
+         "id":56,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Jadilah wanita yang sejuk dipandang. Tutuplah aurat dan jagalah kehormatanmu karena yang berhak atas keindahan dirimu adalah yang menghalalkanmu dan menafkahimu. Assalamu’alaikum ukhti, selamat pagi."
+      },
+      {
+         "id":57,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Orang hebat tidak dilahirkan dalam satu hari. Namun hasil dari kerja keras dan doa yang sangat lama. Kamu mau jadi orang hebat tapi masih sulit bangun pagi?"
+      },
+      {
+         "id":58,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Sebenarnya aku tahu jika pemimpi sepertimu tak perlu sebuah ucapan selamat pagi, bukan?"
+      },
+      {
+         "id":59,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Awali pagi dengan ketenangan hati, berisitiqomhlah bagai sang mentari yang selalu terbit di pagi hari, lewat untaian ini aku ucapkan Assalamu’alaikum dan semangat pagi."
+      },
+      {
+         "id":60,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Tiada pagi tanpa kopi. Bagaikan pagi tanpa cerahnya sinar matahari. Kopi pagi hari ini, jagalah lisan dari menyakiti hati, jagalah hati dari rasa benci dan dengki."
+      },
+      {
+         "id":61,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Sesungguhnya sesudah kesulitan ada kemudahan. Tetap optimis mesti dalam keadaan miris. Percaya dengan janji Illahi adalah kunci untuk menjemput pagi yang percaya diri. Salam pagi."
+      },
+      {
+         "id":62,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Jika pagi ini kita dapat melangkah dengan penuh keyakinan, doa, dan harapan, sesungguhnya kita sudah meraih separuh kemenangan. Selamat pagi."
+      },
+      {
+         "id":63,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Aku tidak menilaimu dari apa yang Kamu miliki saat ini. Aku ingin menilai seberapa besar usahamu untuk memperjuangkanku. Selamat bekerja, semoga hasil yang Kamu capai bisa meyakinkan orang tuaku nanti! Selamat menjalani hari dan selamat pagi."
+      },
+      {
+         "id":64,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Pancaran fajar di pagi hari adalah pancaran semangat. Semangat baru di hari yang baru. Sambutlah pagi dengan senyuman dan suasana hati yang baik. Jangan lupa pula untuk ucap bismillah sebelumnya."
+      },
+      {
+         "id":65,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Kicau burung terdengar sangat merdu, embun pagi memperlihatkan keindahannya. Kau tahu kenapa mereka seperti itu pagi ini? Karena mereka ingin mengucapkan selamat pagi untukmu pendamping hidupku."
+      },
+      {
+         "id":66,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Selamat pagi untuk seseorang yang selalu ada di dalam doa, namun tidak terlihat oleh mata karena terpisahkan jarak. Semoga malaikat tak pernah merasa berat untuk melantunkan doa itu atas nama rinduku."
+      },
+      {
+         "id":67,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Hari berganti dan pagi telah datang. Sambut pagi dengan semangat baru dan jangan terpaku dengan masa lalu. Langkahkan kaki ke depan untuk menatap masa depan yang lebih baik. Bismillah."
+      },
+      {
+         "id":68,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Pagi hari harus lah di sambut dengan rasa syukur dan senyuman yang hangat. Rasa syukur karena masih dapat melihat indahnya ciptaan Tuhan di dunia. Selamat pagi."
+      },
+      {
+         "id":69,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Mulai pagi mu dengan senyum ramah dan rasa sayang pada diri sendiri, keluarga dan orang sekitar. Tebarkan senyum manis untuk mereka dan ucapkan selamat pagi."
+      },
+      {
+         "id":70,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Terbitnya matahari beri senyuman untuk jiwa-jiwa yang bangun di pagi hari. Selamat pagi sahabat sejati, semoga hal baik selalu mendampingi."
+      },
+      {
+         "id":71,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Jangan pernah berhenti percaya pada harapan, karena keajaiban terjadi setiap hari. Jadi jangan lelah untuk tetap berdoa di pagi hari dan mensyukuri segala yang dimiliki."
+      },
+      {
+         "id":72,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Tidak peduli seberapa baik atau buruk dirimu. Bangunlah setiap pagi dan bersyukurlah bahwa kamu masih diberi kesempatan untuk memperbaiki."
+      },
+      {
+         "id":73,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Mentari selalu terbit dari timur, teman sejati selalu menghibur, ayo kawan bergegas bangun dari tidur sebelum didahului salat dzuhur."
+      },
+      {
+         "id":74,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Selamat pagi saudara-saudaraku, awali hari dengan keceriaan dengan tetap menjaga hati seperti Nabi Muhammad SAW."
+      },
+      {
+         "id":75,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Berperilaku baiklah karena Allah semata, dan selalu bersyukur setiap pagi karena nikmat Allah mengizinkan anda terbangun dari tidur, assalamualaikum dan selamat pagi."
+      },
+      {
+         "id":76,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Selamat menikmati hari minggu pagi buat kamu jodohku yang kini masih jauh dan entah dimana. Semoga saja sang waktu bisa segera menyatukan kita di waktu yang tepat dan di tempat yang indah."
+      },
+      {
+         "id":77,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Sebelum sholat dzuhur, ayo saudara-saudaraku bergegas bangun dari tidur. Karena mentari selalu terbit dari timur dan teman sejati yang selalu menghibur sudah menunggu."
+      },
+      {
+         "id":78,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Sebelum sholat dzuhur, ayo saudara-saudaraku bergegas bangun dari tidur. Karena mentari selalu terbit dari timur dan teman sejati yang selalu menghibur sudah menunggu."
+      },
+      {
+         "id":79,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Tiada hari tanpa pagi, tiada kebahagiaan di pagi hari, jika tanpa senyum darimu wahai akhi. Dan bersyukurlah dengan mengucapkan terima kasih kepada ya illahi."
+      },
+      {
+         "id":80,
+         "nama_cat":"Salam Pagi Islami 2",
+         "deskripsi":"Assalamualaikum sahabatku, selamat pagi! Apakah hari ini kamu sudah awali pagimu dengan bersyukur?"
+      },
+      {
+         "id":81,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Mensyukuri hal sekecil apapun adalah salah satu kunci kebahagian hati. Masih bisa sarapan pagi adalah bentuk nikmat kecil yang diberikan oleh Illahi. Melalui perkataan ini aku ingin ucapkan salam pagi."
+      },
+      {
+         "id":82,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Jika pagi ini kita dapat melangkah dengan penuh keyakinan, doa, dan harapan, sesungguhnya kita sudah meraih separuh kemenangan."
+      },
+      {
+         "id":83,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Hidup untuk mencari kesempurnaan akan menjadikan diri tertekan. Jadi syukurilah hari barumu yang dihiasi mentari pagi."
+      },
+      {
+         "id":84,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Lihatlah hal positif setiap harinya, walaupun terkadang kita harus melihat lebih keras untuk mendapatkannya."
+      },
+      {
+         "id":85,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Meskipun kehidupan tak sejalan dengan harapan, tetap awali pagi mu dengan rasa syukur atas nikmat-nya."
+      },
+      {
+         "id":86,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Cahaya mentari selalu mengingatkanku akan Keagungan-Nya. Embun dan kabut mengingatkanku akan indah Ciptaan-Nya. Hangatnya selalu membuatku bersyukur atas Nikmat-Nya. Selamat pagi."
+      },
+      {
+         "id":87,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Selamat pagi, mimpi akan menjadi kenyataan dengan setiap langkah kecil yang kita buat dan terus bergerak."
+      },
+      {
+         "id":88,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Selamat pagi, lawan rasa malasmu dan bangunlah, dunia tidak memanjakan orang malas."
+      },
+      {
+         "id":89,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Berperilaku baiklah setiap waktu karena Allah semata dan selalu bersyukur setiap pagi karena nikmat Allah mengizinkanmu terbangun dari tidur."
+      },
+      {
+         "id":90,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Tetaplah semangat menjalankan hari-harimu. Semoga Allah selalu memberikan cahaya kebahagiaan untuk kita di sepanjang hari ini."
+      },
+      {
+         "id":91,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Selamat Pagi, hari berganti tanpa pernah kita rasa sebelumnya. Dengan bertambahnya usia setiap hari, semoga kita selalu dalam lindungan-Nya."
+      },
+      {
+         "id":92,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Awali setiap pagimu dengan senyuman dan ketenangan hati. Istiqomahlah bagai matahari yang selalu terbit di pagi hari dan terbenam di sore hari, aku ucapkan Assalamualaikum dan selamat pagi untukmu."
+      },
+      {
+         "id":93,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Tidak ada kata indah lain yang harus ku ucapkan si pagi ini selain kalimat syukur atas nikmat dari-Nya."
+      },
+      {
+         "id":94,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Sesungguhnya sesudah kesulitan ada kemudahan. Tetap optimis meskipun dalam keadaan miris. Percaya dengan janji Illahi adalah kunci untuk menjemput pagi yang percaya diri. Salam pagi."
+      },
+      {
+         "id":95,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Senyuman dan ketenangan hati bisa menjadi awal hari yang menyenangkan. Selalu istiqomah mengawali hari dengan senyuman layaknya matahari yang tak pernah bosan terbit di pagi hari dan terbenam di malam hari."
+      },
+      {
+         "id":96,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Marilah kita mulai pagi ini dengan semangat di hati. Semoga apa yang kita harapkan hari ini mampu kita capai dengan hasil semaksimal mungkin."
+      },
+      {
+         "id":97,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Semoga pagi ini menjadi pintu berkah bagi kita semua, dan semoga Allah senantiasa memudahkan segala urusan kita."
+      },
+      {
+         "id":98,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Menjadi penting tidak selalu baik, tapi dengan menjadi baik kita selalu penting dan yang indah tidak selalu baik pula, karena setiap yang baik selalu indah pada akhirnya."
+      },
+      {
+         "id":99,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Semoga harimu dimulai dengan rasa syukur atas nikmat-Nya dan berakhir dengan lebih baik dari hari-hari sebelumnya."
+      },
+      {
+         "id":100,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Mensyukuri hal sekecil apapun adalah salah satu kunci kebahagiaan hati. Masih bisa sarapan pagi adalah bentuk nikmat kecil yang diberikan Allah. Selamat pagi untukmu, teman."
+      },
+      {
+         "id":101,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Jika ramai orang disekitarmu tidak menganggapmu, buktikan bahwa kamu baik - baik saja dan tunjukkan bahwa hidupmu jauh lebih baik dari sebelumnya. Selamat pagi."
+      },
+      {
+         "id":102,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Harapan dan jalan menuju kesuksesan selalu datang untuk mereka yang bekerja keras meraih impian dan selalu berdoa serta ikhtiar tanpa mengenal arti menyerah. Selamat pagi."
+      },
+      {
+         "id":103,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Mata terindah yang selalu melihat kebaikan orang. Mulut terindah adalah yang belajar selalu berkata baik. Hati terindah adalah yang selalu berprasangka baik terhadap orang lain. Selamat pagi."
+      },
+      {
+         "id":104,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Jika hari ini tidak kamu temui kebahagiaan, tetaplah berusaha dan berdoa agar senantiasa diberikan nikmat yang berlimpah."
+      },
+      {
+         "id":105,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Awali pagimu dengan rasa sayang. Sayang dengan diri sendiri. Sayang dengan orang di sekitarmu. Tebarkan senyum manis yang gembira."
+      },
+      {
+         "id":106,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Pada dasarnya pagi yang kamu rasakan hari ini ada karena izin dari Allah agar kamu bisa bangun dari tidur."
+      },
+      {
+         "id":107,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Mentari tidak pernah lupa membawa sinarnya, seperti pula Dia yang tidak pernah lupa memberikan nikmat pada kita. Terima kasih, Alhamdulillah, hari ini aku hidup."
+      },
+      {
+         "id":108,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Mulai pagi hari ini, tentang setiap masalah yang ada di depanmu lalu katakan, “Hai, masalah! Hanya Allah yang tak bisa dikalahkan."
+      },
+      {
+         "id":109,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Sebagaimana Engkau telah bukakan mataku di pagi ini, bukakan pula jalan kebahagiaan untukku sampai akhir hayat nanti."
+      },
+      {
+         "id":110,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Ketika kau masih bertemu pagi dan putuskan diri untuk berdiri menghadapi berjuang dengan hati di jalan Illahi, maka saat itu kau telah mengakhiri hari dengan satu lagi kemenangan sejati. - Helvy Tiana Rosa, Risalah Cinta"
+      },
+      {
+         "id":111,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Pagi ini begitu syahdu. Embun di ujung daun jatuh dengan membawa rindu pada tanah, menumbuhkan pepohonan."
+      },
+      {
+         "id":112,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Pagimu murung? Air mata tak terbendung? Kebahagiaanmu terpasung? Ingat-ingat satu hal, bung! Allah tidak akan memberi masalah yang tidak bisa ditanggung."
+      },
+      {
+         "id":113,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Tiada pagi tanpa kopi. Bagaikan pagi tanpa cerahnya sinar matahari. Kopi pagi hari ini, jagalah lisan dari menyakiti hati, jagalah hati dari rasa benci dan dengki."
+      },
+      {
+         "id":114,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Di tengah gurun yang tertebak, jadilah salju abadi. Embun pagi tak akan kalahkan dinginmu, angin malam akan menggigil ketika melewatimu, oase akan jengah, dan kaktus terperangah.- Dee, Filosofi Kopi: Kumpulan Cerita dan Prosa Satu Dekade"
+      },
+      {
+         "id":115,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Setiap pagi adalah hari baru, hidup baru, untuk sebuah semangat yang harus baru juga. - Nurul Fajri"
+      },
+      {
+         "id":116,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Tanamkan kebaikan dalam diri. Hapus memori yang terus menyelimuti, karena pagi ini kita harus menjadi pribadi yang terus memperbaiki diri, Semangat!"
+      },
+      {
+         "id":117,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Aku tidak peduli apakah dirimu yang terbaik untukku atau bukan, yang jelas di pagi ini aku akan berdoa untuk kebaikanmu."
+      },
+      {
+         "id":118,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Pengalaman adalah batu pijakan, semakin banyak pengalaman, untuk meraih hidup yang berkualitas tinggi. Selamat pagi sahabat."
+      },
+      {
+         "id":119,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Mungkin sejak aku percaya bahwa jika memberi hal manis untuk diri kita tiap pagi, kita selalu siap menghadapi hal pahit yang mungkin akan terjadi nanti. - Fahrul Khakim, Hiding My Heart: Setetes Embun dari London"
+      },
+      {
+         "id":120,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Selamat pagi semesta. terima apa yang sudah terjadi, ikhlaskan apa yang tidak bisa diubah, betulkan apa yang masih bisa diperbaiki. - Fiersa Besari"
+      },
+      {
+         "id":121,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Selamat pagi jiwa-jiwa optimis, kesulitan yang dihadapi hari ini akan membantumu sukses di masa depan."
+      },
+      {
+         "id":122,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Mungkin sejak aku percaya bahwa jika memberi hal manis untuk diri kita tiap pagi, kita selalu siap menghadapi hal pahit yang mungkin akan terjadi nanti. - Fahrul Khakim, Hiding My Heart: Setetes Embun dari London"
+      },
+      {
+         "id":123,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Selamat pagi, semoga pagi ini menjadi pintu berkah bagi kita semua, dan semoga Allah senantiasa memudahkan segala urusan kita."
+      },
+      {
+         "id":124,
+         "nama_cat":"Salam Pagi Islami 3",
+         "deskripsi":"Langit membuka tabirnya, sinar mentari perlahan menapak bumi, jangan lupa berdoa agar selalu dalam lindungan-Nya. Selamat pagi."
+      }
+   ]
+}
