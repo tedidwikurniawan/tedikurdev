@@ -1,0 +1,71 @@
+{
+  "redirect" : {
+
+    "url_utama" : "file:///android_asset/html/index.html",
+
+	"json_popup_wait" : "Server Ready  . . .",
+	
+	"mode_no_ads" : true,
+	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
+
+	
+	"pengaturan_iklan_banner": "1",
+	"pengaturan_iklan_inter": "1",
+	"pengaturan_iklan_native": "1",
+	
+    "inter_count" : 8,
+
+    "enable_strap" : false,
+    "enable_strap_Splah" : true,
+
+    "ads_on_exit_dialog" : true,
+
+    "mode_offline_mp3" : false,
+	"enable_sticky_notification" : true,
+
+
+    "startapp" : "205276180",
+
+    "admob_banner" : "ca-app-pub-6554653902751702/9786124320",
+    "admob_inter" : "",
+    "admob_native" : "",
+	
+	"hpk_alien" : "kuota data 30gb",
+    "hpkadmob1" : "Kuota Data",
+    "hpkadmob2" : "Bank Jenius",
+    "hpkadmob3" : "Simpati",
+    "hpkadmob4" : "Telkomsel",
+    "hpkadmob5" : "Donasi",
+ 
+	"fan_banner" : "YOUR_PLACEMENT_ID",
+    "fan_inter" : "YOUR_PLACEMENT_ID",
+    "fan_native" : "YOUR_PLACEMENT_ID",
+	
+	"mopub_banner" : "Jangan Dipakai dulu - error library",
+    "mopub_interstitial" : "Jangan Dipakai dulu - error library",
+    "mopub_native" : "Jangan Dipakai dulu - error library",
+
+	"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
+	
+	"unity_banner_id" : "banner",
+	"unity_inters_id" : "interstitial",
+	"unity_id" : "4045251",
+	"unity_test" : "true",
+	
+	
+	"applovin_banner_id" : "71f5faf4df08917c",
+	"applovin_inters_id" : "4711e1718612d7dc",
+
+    
+    "exit_popup_dialog" : "Tolong Kasih Review ya Ka, Biar Semangat Buat Appnya :)",
+    "rate_button" : "Rate 5 Stars",
+    "later_button" : "Rate Later",
+    "enable_Share_button" : true,
+    "Share_TXT" : "Supperr APPS Download Now",
+    "more_button" : "Share Via WhatsApp",
+    "url_more_apps" : "https://play.google.com/store/apps/details?id=com.tedikur.resepminumanesboba"
+	
+	
+	
+  }
+}
