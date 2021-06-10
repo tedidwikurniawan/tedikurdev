@@ -1,0 +1,29 @@
+{
+  
+"Iklan": [
+    {
+      "pengaturan_iklan" : "1",
+      "interval_intertitial": 10,
+      
+      "intertitial_admob":"",
+      "native_admob":"ca-app-pub-6554653902751702/9653368161",
+     
+      "status":"0",
+      "link_redirect":"https://play.google.com/store/apps/details?id=com.tedikur.romanticstickersforchattingapp",
+
+      "deskripsi_update":"Please update the application to the latest version to get additional features.",
+      "version_json": 1,
+      
+      "startappid":"123456789",
+    
+
+      "fan_inter":"981545408591412_999151030164183",
+      "fan_banner_native":"981545408591412_2709037092508893",
+
+      "more_app":"https://play.google.com/store/apps/developer?id=Tedikur",
+       "hpk":""
+
+
+    }
+  ]
+}
