@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Server Ready",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 "Mode Iklan " : "
@@ -36,12 +36,12 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 "admob_inter" : "",
 "admob_native" : "",
 
-"hpk_alien" : "kuota data 30gb",
-"hpkadmob1" : "Kuota Data",
-"hpkadmob2" : "Bank Jenius",
-"hpkadmob3" : "Simpati",
-"hpkadmob4" : "Telkomsel",
-"hpkadmob5" : "Donasi",
+"hpk_alien" : "Business",
+"hpkadmob1" : "Forex",
+"hpkadmob2" : "Broker Forex",
+"hpkadmob3" : "Trading forex",
+"hpkadmob4" : "Gold Trader",
+"hpkadmob5" : "Donation",
 
 "fan_banner" : "YOUR_PLACEMENT_ID",
 "fan_inter" : "YOUR_PLACEMENT_ID",
