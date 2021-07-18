@@ -2,7 +2,7 @@
   
 "Iklan": [
     {
-      "pengaturan_iklan" : "1",
+      "pengaturan_iklan" : "2",
       "interval_intertitial": 10,
       "intertitial_admob":"",
       "native_admob":"ca-app-pub-6554653902751702/5453440724",
@@ -15,8 +15,8 @@
       "unityID":"",
       "unity_inter":"",
       "unity_banner":"",
-      "fan_inter":"981545408591412_999151030164183",
-      "fan_banner_native":"981545408591412_2709037092508893",
+      "fan_inter":"1218272465283246_1218272525283240",
+      "fan_banner_native":"1218272465283246_1218272531949906",
       "more_app":"https://play.google.com/store/apps/developer?id=Tedikur"
 
 

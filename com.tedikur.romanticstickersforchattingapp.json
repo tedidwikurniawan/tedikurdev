@@ -2,7 +2,7 @@
   
 "Iklan": [
     {
-      "pengaturan_iklan" : "1",
+      "pengaturan_iklan" : "2",
       "interval_intertitial": 10,
       
       "intertitial_admob":"",
@@ -17,8 +17,8 @@
       "startappid":"123456789",
     
 
-      "fan_inter":"981545408591412_999151030164183",
-      "fan_banner_native":"981545408591412_2709037092508893",
+      "fan_inter":"318733659943522_318733689943519",
+      "fan_banner_native":"318733659943522_318733686610186",
 
       "more_app":"https://play.google.com/store/apps/developer?id=Tedikur",
        "hpk":"Trading forex, broker forex, forex uk, trader emas"
