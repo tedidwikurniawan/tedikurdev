@@ -16,9 +16,9 @@ Mode 5     Applovin backup Startapp
 MODE NATIVE HANYA  - 1 - 2 - 3 - 
 ",
 
-"pengaturan_iklan_banner" : "1",
-"pengaturan_iklan_inter" : "1",
-"pengaturan_iklan_native" : "1",
+"pengaturan_iklan_banner" : "2",
+"pengaturan_iklan_inter" : "2",
+"pengaturan_iklan_native" : "3",
 
 "inter_count" : 8,
 
@@ -43,8 +43,8 @@ MODE NATIVE HANYA  - 1 - 2 - 3 -
 "hpkadmob4" : "Gold Trader",
 "hpkadmob5" : "Donation",
 
-"fan_banner" : "YOUR_PLACEMENT_ID",
-"fan_inter" : "YOUR_PLACEMENT_ID",
+"fan_banner" : "359350312268481_359350355601810",
+"fan_inter" : "359350312268481_359350352268477",
 "fan_native" : "YOUR_PLACEMENT_ID",
 
 "appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",

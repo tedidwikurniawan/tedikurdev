@@ -9,9 +9,9 @@
 	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 	
-	"pengaturan_iklan_banner": "1",
-	"pengaturan_iklan_inter": "1",
-	"pengaturan_iklan_native": "1",
+	"pengaturan_iklan_banner": "2",
+	"pengaturan_iklan_inter": "2",
+	"pengaturan_iklan_native": "4",
 	
     "inter_count" : 8,
 
@@ -37,8 +37,8 @@
     "hpkadmob4" : "Telkomsel",
     "hpkadmob5" : "Donasi",
  
-	"fan_banner" : "YOUR_PLACEMENT_ID",
-    "fan_inter" : "YOUR_PLACEMENT_ID",
+	"fan_banner" : "845454412745034_845454472745028",
+    "fan_inter" : "845454412745034_845454476078361",
     "fan_native" : "YOUR_PLACEMENT_ID",
 	
 	"mopub_banner" : "Jangan Dipakai dulu - error library",
